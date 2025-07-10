@@ -1,1 +1,1 @@
-# Machine-Learning-Practicals
+# Machine-Learning-Lab 
