@@ -27,11 +27,6 @@ machine-learning-lab/
 ├── requirements.txt # Project dependencies
 └── README.md # This file
 
-yaml
-Copy
-Edit
-
----
 
 ## ⚙️ Installation
 
