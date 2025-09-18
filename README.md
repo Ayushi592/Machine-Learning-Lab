@@ -73,8 +73,6 @@ Contributions are welcome! Here’s how you can help:
 
 📩 Submit a pull request with your improvements
 
-Please read the CONTRIBUTING.md before submitting code.
-
 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
