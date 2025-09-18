@@ -80,7 +80,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 📬 Contact
 Maintainer: Ayushi Nagpure
-LinkedIn: linkedin.com/in/yourprofile
+LinkedIn: linkedin.com/in/ayushinagpure
 GitHub: github.com/Ayushi592
 
 "The best way to learn machine learning is by doing. Welcome to the lab."
